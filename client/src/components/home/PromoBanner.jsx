@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import bookPic from "../assets/awardbooks.png";
+import bookPic from "../../assets/awardbooks.png";
 const PromoBanner = () => {
   return (
     <div className="mt-16 py-12 bg-teal-100 px-4 lg:px-24">
